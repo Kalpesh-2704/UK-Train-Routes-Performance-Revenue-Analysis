@@ -2,41 +2,46 @@
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes the **performance and revenue trends of UK train routes**.  
-It provides key insights into passenger demand, revenue generation, and route efficiency to support better decision-making.
+It highlights passenger behavior, revenue patterns, refund trends, and journey performance to support operational and strategic decisions.
 
 ---
 
 ## 🔑 Key Features
-- **Revenue Analysis**: Track revenue generated across different routes.  
-- **Performance Metrics**: Identify top-performing and underperforming train routes.  
-- **Passenger Insights**: Understand travel demand patterns.  
-- **Interactive Visuals**: Drill-down capability for detailed exploration.  
+- **Revenue Analysis**: Monthly revenue performance across train routes.  
+- **Journey Status**: Breakdown of on-time, delayed, and cancelled journeys.  
+- **Passenger Count**: Total 32K passengers tracked.  
+- **Refund Insights**: 1,118 total refunds with reason analysis.  
+- **Ticket Class**: Share of Standard vs. First Class travelers.  
+- **Railcard Usage**: Identifies key segments (Adult, Disabled, Senior).  
+- **Purchase Type**: Online vs. Station ticket purchases.  
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI** (Data Visualization)  
-- **Excel/CSV** (Data Source)  
-- **DAX** (Measures & Calculations)  
+- **Power BI** (Dashboard & DAX Measures)  
+- **Excel/CSV** (Data Sources)  
+- **Data Cleaning** in Power Query  
 
 ---
 
 ## 📂 Files Included
 - `UK-Train-Routes-Performance-Revenue-Analysis.pbix` → Power BI dashboard file  
-- `Data/` → Raw dataset used in the analysis (if included)  
+- `Data/` → Dataset used for the analysis (if included)  
 - `README.md` → Project documentation (this file)  
 
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here for better presentation)*  
+![UK Train Routes Dashboard](Reail%20Project.PNG)
 
 ---
 
-## 🚀 Insights & Outcomes
-- Identified **high-revenue routes** and **low-performing segments**.  
-- Helped in understanding **passenger preferences** across UK routes.  
-- Supports **data-driven decision-making** for operational improvements.  
+## 🚀 Key Insights
+- **76% of journeys** were on time, while **17% faced delays**.  
+- **742K USD** total revenue generated in 5 months.  
+- **90% passengers** travel in Standard Class.  
+- **51% of tickets** purchased online, showing a shift towards digital.  
+- **94% of passengers** did not request a refund, showing overall satisfaction.  
 
 ---
 
@@ -44,4 +49,3 @@ It provides key insights into passenger demand, revenue generation, and route ef
 **Kalpesh Baria**  
 - 📧 Email: kalpeshbaria2704@gmail.com  
 - 🔗 Portfolio: [GitHub Portfolio](https://github.com/Kalpesh-2704)  
-# UK-Train-Routes-Performance-Revenue-Analysis
